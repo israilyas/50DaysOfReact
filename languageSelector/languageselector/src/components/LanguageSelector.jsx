@@ -13,7 +13,7 @@ function LanguageSelector() {
             onChange={(e) => setLanguage(e.target.value)}>
                 <option value="en" className='px-2'>English</option>
                 <option value="ur" className='px-2'>Urdu</option>
-                <option value="fr" className='px-2 py-3'>France</option>
+                <option value="fr" className='px-2 py-3'>French</option>
             </select>
         </div>
     )
